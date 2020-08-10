@@ -4,12 +4,6 @@ A React, React-Native, Node.JS application made to connect teachers and students
 
 The project was developed in the Next Level Week, by **[Rocketseat](https://github.com/Rocketseat)**,  that was available between 3 and 9 of August.
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ##   Preview
 
 ### :computer: Web

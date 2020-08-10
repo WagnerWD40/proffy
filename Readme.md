@@ -19,13 +19,13 @@ The project was developed in the Next Level Week, by **[Rocketseat](https://gith
 
 ![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/mobile-landing.png)
 
-![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/mobile-favorites.png)
-
 ![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/mobile-search-teachers-1.png)
 
 ![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/mobile-search-teachers-2.png)
 
 ![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/mobile-search-teachers-3.png)
+
+![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/mobile-favorites.png)
 
 ## Techs used in this project
 

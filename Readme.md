@@ -13,13 +13,13 @@ The project was developed in the Next Level Week, by **[Rocketseat](https://gith
 ##   Preview
 
 ### :computer: Web
-![](https://github.com/WagnerWD40/gympoint/blob/master/screenshots/web-landing.png)
+[](https://github.com/WagnerWD40/proffy/blob/master/screenshots/web-landing.png)
 
-!![](https://github.com/WagnerWD40/gympoint/blob/master/screenshots/web-landing-mobile.png)
+![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/web-landing-mobile.png)
 
-!![](https://github.com/WagnerWD40/gympoint/blob/master/screenshots/web-study.png)
+![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/web-study.png)
 
-!![](https://github.com/WagnerWD40/gympoint/blob/master/screenshots/web-classes-2.png)
+![](https://github.com/WagnerWD40/proffy/blob/master/screenshots/web-classes-2.png)
 
 ### :iphone: Mobile
 
